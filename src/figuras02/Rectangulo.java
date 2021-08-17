@@ -20,6 +20,6 @@ public class Rectangulo {
 	}
 	
 	public double getArea() {
-		return this.alto + this.ancho 2;
+		return this.alto + this.ancho;
 	}
 }
